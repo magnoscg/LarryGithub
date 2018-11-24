@@ -2,4 +2,5 @@
 
 La historia de un hacker excepcional.
 
-**Oscar Canton**, git lover.
+
+**Oscar Canton**, git lover & Larry Plotter fan.
